@@ -1,0 +1,10 @@
+Region,Product,April,February,January,March,May
+East,Gadget,0,0,0,4000,0
+East,Widget,0,0,0,7500,0
+North,Gadget,0,0,6000,0,0
+North,Mobiles,0,0,0,0,50000
+North,Widget,0,0,2500,0,0
+South,Gadget,0,2000,0,0,0
+South,Widget,0,5000,0,0,0
+West,Gadget,8000,0,0,0,0
+West,Widget,6250,0,0,0,0

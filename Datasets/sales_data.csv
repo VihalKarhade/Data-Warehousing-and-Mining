@@ -1,0 +1,10 @@
+﻿Region,Product,Month,Quantity,Price
+North,Widget,January,100,25
+North,Gadget,January,150,40
+South,Widget,February,200,25
+South,Gadget,February,50,40
+East,Widget,March,300,25
+East,Gadget,March,100,40
+West,Widget,April,250,25
+West,Gadget,April,200,40
+North,Mobiles,May,50,1000
