@@ -1,3 +1,7 @@
+#To compute similarity and dissimilarity measures for a given dataset using Euclidean distance and Jaccard similarity. 
+
+
+
 import pandas as pd
 from sklearn.metrics import pairwise_distances
 from sklearn.preprocessing import LabelEncoder
