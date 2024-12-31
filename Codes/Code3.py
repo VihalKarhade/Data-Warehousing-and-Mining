@@ -1,3 +1,7 @@
+#  Perform the Various Operations on the dataset
+# 1. Handle missing values in the datasets.
+# 2. Combine the cleaned datasets into a single dataset.
+
 import pandas as pd
 
 # Load datasets
