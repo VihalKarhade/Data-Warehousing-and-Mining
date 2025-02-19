@@ -1,3 +1,5 @@
+#To perform OLAP operations on a data warehouse to analyze sales data stored in Firestore. 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
