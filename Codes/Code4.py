@@ -1,3 +1,5 @@
+#Reduce the dataset's dimensions by selecting relevant features or performing dimensionality reduction. 
+
 import pandas as pd
 
 # Load datasets
