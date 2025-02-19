@@ -1,4 +1,4 @@
-#MUltidimensional Data analysis
+# Perform Various operations on Data Cube Technology 2.Multidimensional Data analysis
 
 import matplotlib.pyplot as plt
 import seaborn as sns
