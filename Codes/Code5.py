@@ -1,3 +1,5 @@
+#To understand and apply data transformation and data discretization techniques on a given dataset using Python. 
+
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 import matplotlib.pyplot as plt
