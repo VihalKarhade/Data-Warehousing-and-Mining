@@ -1,28 +1,4 @@
-#import pandas as pd
-#from mlxtend.preprocessing import TransactionEncoder
-#from mlxtend.frequent_patterns import apriori, association_rules
-#try:
-#    df=pd.read_csv('dataset9.csv',quotechar="",on_bad_lines='warn')
-
- #   transactions=df['Items'].apply(lambda x: x.split(',')).tolist()
-
-  #  te=TransactionEncoder()
-   # te_ary=te.fit(transactions).transform(transactions)
-    #df_trans=pd.DataFrame(te_ary, columns=te.columns_)
-
-    #frequent_itemsets=apriori(df_trans, min_support=0.2, use_colnames=True)
-   # print("Frequent Itemsets:")
-    #print(frequent_itemsets)
-
-#    rules=association_rules(frequent_itemsets, metric='confidence', min_threshold=0.7)
- #   print("\nAssociation Rules:")
-  #  print(rules)
-
-#except Exception as e:
- #   print(f"An error occurred: {e}")
-
-
-
+# To implement the Apriori algorithm for frequent itemset mining, generate frequent itemsets, and create association rules based on the mined itemsets. 
 
 
 import pandas as pd
